@@ -1,0 +1,44 @@
+.infoDisplay {
+  align-content: center;
+  width: 20rem;
+  height: 20rem;
+  background-color: #77bb41;
+  border: 1px solid black;
+  
+}
+
+#ciudad{
+  text-align: center;
+  font-family: "Arial";
+  color: white;
+  font-size: 40px;
+  margin: 0px;
+  padding-top: 2rem;
+}
+
+#temperatura{
+  
+  font-family: "Arial";
+  color: white;
+  font-size: 120px;
+  text-align: center;
+  padding:0px;
+  margin: 0px;
+}
+
+#descripcion{
+  
+  font-family: "Arial";
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+
+}
+
+span{
+  font-size: 20px;
+  text-align: vertical;
+  padding:0px;
+  margin: 0px;
+}
